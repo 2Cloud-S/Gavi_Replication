@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "table1.html",
-    "href": "table1.html",
-    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
-    "section": "",
-    "text": "This document presents the replication efforts for Table 1 from the paper “Effective Health Aid: Evidence from Gavi’s Vaccine Program” by Shastry and Tortorice. This replication was performed using R. The purpose of this replication is to verify the reported figures and understand any discrepancies that may arise during the replication process."
-  },
-  {
-    "objectID": "table1.html#introduction",
-    "href": "table1.html#introduction",
-    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
-    "section": "",
-    "text": "This document presents the replication efforts for Table 1 from the paper “Effective Health Aid: Evidence from Gavi’s Vaccine Program” by Shastry and Tortorice. This replication was performed using R. The purpose of this replication is to verify the reported figures and understand any discrepancies that may arise during the replication process."
-  },
-  {
-    "objectID": "table1.html#original-table-1",
-    "href": "table1.html#original-table-1",
-    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
-    "section": "Original Table 1",
-    "text": "Original Table 1\nThe original Table 1 from the paper, titled “Number of countries introducing a Gavi-funded vaccine, by year and vaccine,” is presented below for reference.\n\nNote: This image is a direct capture of Table 1 from the original paper."
-  },
-  {
-    "objectID": "table1.html#replication-results",
-    "href": "table1.html#replication-results",
-    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
-    "section": "Replication Results",
-    "text": "Replication Results\nOur replication efforts for Table 1 yielded slightly different results, particularly for the total number of countries introducing the Inactivated Polio Vaccine (IPV). Below is our replicated Table 1.\n\nNote: This image represents our replicated Table 1."
-  },
-  {
-    "objectID": "table1.html#discrepancy-analysis-inactivated-polio-vaccine-ipv",
-    "href": "table1.html#discrepancy-analysis-inactivated-polio-vaccine-ipv",
-    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
-    "section": "Discrepancy Analysis: Inactivated Polio Vaccine (IPV)",
-    "text": "Discrepancy Analysis: Inactivated Polio Vaccine (IPV)\nUpon comparing our replicated Table 1 with the original, a difference was observed in the total count for the Inactivated Polio Vaccine (IPV) introductions. The original Table 1 reports a total of 76 countries for IPV, whereas our replication consistently shows a total of 127 countries.\nThis difference appears to stem from the handling of multiple entries for a single country over different years. Our understanding, informed by discussions with project instructor, David Kane, is that the raw data contains approximately 134 initial IPV observations. When applying a standard methodology of retaining only the earliest introduction year for each unique country, we find that approximately 7 observations are removed, leading to a total of 127 unique country introductions. The original paper’s figure of 76 suggests a different approach to data processing, which we are seeking to understand.\nOur figure of 127 reflects our interpretation of unique country introductions based on the available raw data and a common practice in such analyses. We are keen to understand the specific data processing steps or criteria that led to the total of 76 in the original Table 1. Gaining this insight would greatly enhance our understanding of the replication process and the nuances of the dataset, contributing to the broader scientific discourse."
-  },
-  {
     "objectID": "gavi_replication.html",
     "href": "gavi_replication.html",
     "title": "Gavi Replication",
@@ -54,5 +19,40 @@
     "title": "Gavi Replication",
     "section": "Replicated Table 2",
     "text": "Replicated Table 2\nThis table summarizes mean vaccine coverage rates by 5-year cohort periods, based on processed survey data.\n\n\n\n\n\n\n\n\nTable 2: Summary statistics on vaccine coverage\n\n\nMean coverage rates by vaccine and cohort period\n\n\n\n1985-89\n1990-94\n1995-99\n2000-04\n2005-09\n2010-14\n\n\n\n\nBCG vaccine\n70.44\n72.51\n67.80\n68.97\n70.47\n73.21\n\n\nDTP vaccine\n63.46\n64.08\n59.53\n62.65\n63.64\n66.98\n\n\nHepatitis B vaccine\n-\n74.32\n74.20\n64.60\n60.78\n67.35\n\n\nHiB vaccine\n-\n-\n96.20\n65.88\n65.76\n68.51\n\n\nInactivated polio vaccine\n-\n-\n-\n-\n97.00\n66.28\n\n\nMeasles containing vaccine\n54.75\n57.18\n54.37\n59.21\n58.82\n61.72\n\n\nPneumococcal conjugate vaccine\n-\n-\n-\n-\n-\n52.06\n\n\nPolio vaccine\n63.48\n64.32\n61.16\n63.81\n64.18\n66.44\n\n\nRotavirus vaccine\n-\n-\n-\n-\n60.17\n55.31\n\n\nRubella containing vaccine\n-\n-\n-\n-\n86.50\n81.40\n\n\nTetanus vaccine\n45.74\n57.58\n54.21\n45.12\n50.95\n52.54\n\n\nYellow Fever vaccine\n30.59\n24.71\n18.01\n38.03\n47.56\n49.78"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
+    "section": "",
+    "text": "This document presents the replication efforts for Table 1 from the paper “Effective Health Aid: Evidence from Gavi’s Vaccine Program” by Shastry and Tortorice. This replication was performed using R. The purpose of this replication is to verify the reported figures and understand any discrepancies that may arise during the replication process."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
+    "section": "",
+    "text": "This document presents the replication efforts for Table 1 from the paper “Effective Health Aid: Evidence from Gavi’s Vaccine Program” by Shastry and Tortorice. This replication was performed using R. The purpose of this replication is to verify the reported figures and understand any discrepancies that may arise during the replication process."
+  },
+  {
+    "objectID": "index.html#original-table-1",
+    "href": "index.html#original-table-1",
+    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
+    "section": "Original Table 1",
+    "text": "Original Table 1\nThe original Table 1 from the paper, titled “Number of countries introducing a Gavi-funded vaccine, by year and vaccine,” is presented below for reference.\n\nNote: This image is a direct capture of Table 1 from the original paper."
+  },
+  {
+    "objectID": "index.html#replication-results",
+    "href": "index.html#replication-results",
+    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
+    "section": "Replication Results",
+    "text": "Replication Results\nOur replication efforts for Table 1 yielded slightly different results, particularly for the total number of countries introducing the Inactivated Polio Vaccine (IPV). Below is our replicated Table 1.\n\nNote: This image represents our replicated Table 1."
+  },
+  {
+    "objectID": "index.html#discrepancy-analysis-inactivated-polio-vaccine-ipv",
+    "href": "index.html#discrepancy-analysis-inactivated-polio-vaccine-ipv",
+    "title": "Replication of Table 1: Effective Health Aid: Evidence from Gavi’s Vaccine Program",
+    "section": "Discrepancy Analysis: Inactivated Polio Vaccine (IPV)",
+    "text": "Discrepancy Analysis: Inactivated Polio Vaccine (IPV)\nUpon comparing our replicated Table 1 with the original, a difference was observed in the total count for the Inactivated Polio Vaccine (IPV) introductions. The original Table 1 reports a total of 76 countries for IPV, whereas our replication consistently shows a total of 127 countries.\nThis difference appears to stem from the handling of multiple entries for a single country over different years. Our understanding, informed by discussions with project instructor, David Kane, is that the raw data contains approximately 134 initial IPV observations. When applying a standard methodology of retaining only the earliest introduction year for each unique country, we find that approximately 7 observations are removed, leading to a total of 127 unique country introductions. The original paper’s figure of 76 suggests a different approach to data processing, which we are seeking to understand.\nOur figure of 127 reflects our interpretation of unique country introductions based on the available raw data and a common practice in such analyses. We are keen to understand the specific data processing steps or criteria that led to the total of 76 in the original Table 1. Gaining this insight would greatly enhance our understanding of the replication process and the nuances of the dataset, contributing to the broader scientific discourse."
   }
 ]
